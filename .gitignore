@@ -1,0 +1,32 @@
+# Archivos y carpetas generados por Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Carpeta virtualenv
+venv/
+env/
+.env
+
+# Archivos de registro
+*.log
+
+# Entorno de desarrollo
+.idea/
+.vscode/
+
+# Archivos generados por el sistema operativo
+.DS_Store
+
+# Archivos y carpetas de salida
+dist/
+build/
+my_tfhub_cache/
+*.egg-info/
+
+# Modelos de TensorFlow
+*.h5
+
+# Modelos de PyTorch
+*.pt
